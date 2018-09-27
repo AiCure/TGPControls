@@ -26,7 +26,7 @@ Pod::Spec.new do |spec|
   spec.swift_version = '4.0'
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  spec.source       = { :git => "https://github.com/SwiftArchitect/TGPControls.git", :tag => "v5.1.0" }
+  spec.source       = { :git => "https://github.com/AiCure/TGPControls.git", :tag => "v5.1.0" }
   spec.source_files = "TGPControls/**/*.{swift}"
   spec.exclude_files = "TGPControlsDemo/*"
 
